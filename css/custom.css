@@ -30,3 +30,12 @@ body{
         height: auto;
       
 }
+
+.overImage{
+    position: absolute;
+    right: 180px;
+    top: 300px;
+  width: 70%;
+  height: auto;
+  z-index: 1;
+}
