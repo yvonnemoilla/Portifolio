@@ -1,0 +1,19 @@
+.header-image{
+    background-image:url("../images/headerBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 450px;
+    color:white;
+}
+.nav-link{
+    color:white !important;
+}
+
+.navbar a{
+    text-align: center;
+}
+body{
+    background-color:#ededed;
+}
+
