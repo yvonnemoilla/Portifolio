@@ -37,7 +37,10 @@ body{
           background-color:#1badf3;
       }
   }
-
+.navbar-toggler-icon{
+    color: black;
+	background: white;
+}
 .overImage{
     position: absolute;
     right: 180px;
