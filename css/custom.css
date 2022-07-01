@@ -16,4 +16,22 @@
 body{
     background-color:#ededed;
 }
+.col1-image{
+    background-image:url("../images/COVIDimage.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    width: auto;
+    height: 450px;
+    padding: 200px !important;
 
+}
+
+.row{
+    margin: 20px;
+}
+
+.container-2{
+    width: 70%;
+}
