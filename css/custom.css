@@ -31,6 +31,13 @@ body{
       
 }
 
+@media (max-width: 767px) {
+    .navbar-collapse
+      {
+          background-color:#1badf3;
+      }
+  }
+
 .overImage{
     position: absolute;
     right: 180px;
