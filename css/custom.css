@@ -38,16 +38,12 @@ body{
           background-color:#1badf3;
       }
 
-      .heightInc{
-        /* display: none; */
-        /* margin-top: 100%; */
-    }
+      /* .heightInc{
+        display: none; 
+         margin-top: 100%;
+    } */
 
     .overImage{
-        /* position: relative; */
-        /* left: 8%;
-        top: 500px;
-      z-index: 1; */
       margin-top: 50%;
     }
   }
